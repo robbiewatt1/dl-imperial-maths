@@ -3,6 +3,8 @@
 *.pyc
 *.DS_Store
 *.mat
+*.gz
+*-ubyte
 
 **/solution.py
 **/.ipynb_checkpoints/
